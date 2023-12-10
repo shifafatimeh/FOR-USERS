@@ -1,0 +1,10 @@
+.description{
+    color: red;
+    background-color:yellowgreen;
+}
+.title{
+    color: black;
+    background-color: pink; 
+    font-weight: bolder;
+    font-style: oblique
+}
